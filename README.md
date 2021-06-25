@@ -19,13 +19,13 @@
 
 <br>
 
-- 🔭 Actualmente trabajando en: **Portfolio Personal**
+🔭 Actualmente trabajando en: **Portfolio Personal**
 
-- 🌱 Actualmente aprendiendo: **JavaScript Avanzado**
+🌱 Actualmente aprendiendo: **JavaScript Avanzado**
 
-- 🤝 Buscando colaborar en: **Proyectos para Beginners**
+🤝 Buscando colaborar en: **Proyectos para Beginners**
 
-- 💬 Comunicate conmigo: **tobiasfacellodeveloper@gmail.com**
+💬 Comunicate conmigo: **tobiasfacellodeveloper@gmail.com**
 
 <br>
 
