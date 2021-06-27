@@ -21,7 +21,7 @@
 
 🔭 Actualmente trabajando en: **Portfolio Personal**
 
-🌱 Actualmente aprendiendo: **JavaScript Avanzado**
+🌱 Actualmente aprendiendo: **JavaScript (DOM Manipulation)**
 
 🤝 Buscando colaborar en: **Proyectos para Beginners**
 
