@@ -11,10 +11,10 @@
 
 
 <p align="center">
-<a href="https://linkedin.com/in/tobiasfacello" target="blank"><img align="center" src="https://dw-iconusers.flaticon.com/43971/43971898/1624636636372.svg?token=exp=1624637547~hmac=b51a26985783a73cd8be56acf926ecc9" alt="tobiasfacello" height="40" width="40" /></a>
-<a href="https://codepen.io/tobiasfacello" target="blank"><img align="center" src="https://dw-iconusers.flaticon.com/43971/43971898/1624636108752.svg?token=exp=1624637103~hmac=915ff1bead6414bb485a61899707387f" alt="tobiasfacello" height="40" width="40" /></a>
-<a href="https://twitter.com/tobiasfacello" target="blank"><img align="center" src="https://dw-iconusers.flaticon.com/43971/43971898/1624636910336.svg?token=exp=1624637824~hmac=6205ad3337cce610130fad665708388f" alt="tobiasfacello" height="40" width="40" /></a>
-<a href="https://instagram.com/tobiasfacello" target="blank"><img align="center" src="https://dw-iconusers.flaticon.com/43971/43971898/1624637086692.svg?token=exp=1624637993~hmac=d7f1c326d18790e576a44831ea2cb1be" alt="tobiasfacello" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/tobiasfacello" target="blank"><img align="center" src="icons/linkedin.svg" alt="tobiasfacello" height="50" width="50" /></a>
+<a href="https://codepen.io/tobiasfacello" target="blank"><img align="center" src="icons/codepen.svg" alt="tobiasfacello" height="50" width="50" /></a>
+<a href="https://twitter.com/tobiasfacello" target="blank"><img align="center" src="icons/twitter-logo.svg" alt="tobiasfacello" height="50" width="50" /></a>
+<a href="https://instagram.com/tobiasfacello" target="blank"><img align="center" src="icons/instagram.svg" alt="tobiasfacello" height="50" width="50" /></a>
 </p>
 
 <br>
