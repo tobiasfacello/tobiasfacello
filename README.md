@@ -25,7 +25,9 @@
 
 🤝 Buscando colaborar en: **Proyectos para Beginners**
 
-💬 Comunicate conmigo: **tobiasfacellodeveloper@gmail.com**
+📥 Comunicate conmigo: **tobiasfacellodeveloper@gmail.com**
+
+📲 También podes hacerlo por: **https://wa.link/svr8dl**
 
 <br>
 
