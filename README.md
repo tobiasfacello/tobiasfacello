@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/tobiasfacello" target="blank"><img align="center" src="icons/linkedin.svg" alt="tobiasfacello" height="50" width="50" /></a>
 <a href="https://codepen.io/tobiasfacello" target="blank"><img align="center" src="icons/codepen.svg" alt="tobiasfacello" height="50" width="50" /></a>
-<a href="https://twitter.com/tobiasfacello" target="blank"><img align="center" src="icons/twitter-logo.svg" alt="tobiasfacello" height="50" width="50" /></a>
+<a href="https://twitter.com/TFacelloDev" target="blank"><img align="center" src="icons/twitter-logo.svg" alt="tobiasfacello" height="50" width="50" /></a>
 <a href="https://instagram.com/tobiasfacello" target="blank"><img align="center" src="icons/instagram.svg" alt="tobiasfacello" height="50" width="50" /></a>
 </p>
 
