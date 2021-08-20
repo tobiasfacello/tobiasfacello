@@ -11,10 +11,10 @@
 
 
 <p align="center">
-<a href="https://linkedin.com/in/tobiasfacello" target="blank"><img align="center" src="icons/linkedin.svg" alt="tobiasfacello" height="50" width="50" /></a>
-<a href="https://codepen.io/tobiasfacello" target="blank"><img align="center" src="icons/codepen.svg" alt="tobiasfacello" height="50" width="50" /></a>
-<a href="https://twitter.com/TFacelloDev" target="blank"><img align="center" src="icons/twitter-logo.svg" alt="tobiasfacello" height="50" width="50" /></a>
-<a href="https://instagram.com/tobiasfacello" target="blank"><img align="center" src="icons/instagram.svg" alt="tobiasfacello" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/tobiasfacello" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="tobiasfacello"/></a>
+<a href="https://dev.to/tobiasfacello" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="tobiasfacello"/></a>
+<a href="https://twitter.com/TFacelloDev" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="tobiasfacello"/></a>
+<a href="https://instagram.com/tobiasfacello" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="tobiasfacello"/></a>
 </p>
 
 <br>
@@ -25,15 +25,16 @@
 
 🤝 Buscando colaborar en: **Proyectos para Beginners**
 
-📥 Comunicate conmigo: **tobiasfacellodeveloper@gmail.com**
+📥 Comunicate conmigo vía <a href="mailto:tobiasfacellodeveloper@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
-📲 También podes hacerlo por: **https://wa.link/svr8dl**
+📲 También podes hacerlo por <a href="https://wa.link/svr8dl"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 
 <br>
 
 ![Tobias's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobiasfacello&show_icons=true&theme=graywhite)
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="icons/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="icons/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="icons/git-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="icons/bash-original.svg" alt="bash" width="40" height="40"/> </a> </p>
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfacello&layout=compact)](https://github.com/tobiasfacello/github-readme-stats)
