@@ -5,7 +5,7 @@
 
 
 <h1 align="center">!Bienvenido 👋! Soy Tobías Facello 👨‍💻</h1>
-<h3 align="center">Estudiante. Aspirante a Desarrollador Front-End.</h3>
+<h3 align="center">Estudiante. Desarrollador Front-End Newbie.</h3>
 <h3 align="center">Podes encontrarme en:</h3>
 
 
