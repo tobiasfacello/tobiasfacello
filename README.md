@@ -4,30 +4,28 @@
 
 
 
-<h1 align="center">!Bienvenido 👋! Soy Tobías Facello</h1>
-<h3 align="center">Estudiante. Desarrollador Front-End Newbie.</h3>
+<h1 align="center">!Bienvenido! Soy Tobías Facello 👋</h1>
+<h3 align="center">Estudiante. Aspirante a Desarrollador FullStack.</h3>
 <h3 align="center">Podes encontrarme en:</h3>
 
 
 
 <p align="center">
 <a href="https://linkedin.com/in/tobiasfacello" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="tobiasfacello"/></a>
-<a href="https://dev.to/tobiasfacello" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="tobiasfacello"/></a>
+<a href="https://dev.to/tobiasfacello" target="_blank"><img align="center" src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="tobiasfacello"/></a>
 <a href="https://twitter.com/TFacelloDev" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="tobiasfacello"/></a>
-<a href="https://instagram.com/tobiasfacello" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=instagram&logoColor=white" alt="tobiasfacello"/></a>
 </p>
 
 <br>
 
-🔭 Actualmente trabajando en: **Portfolio Personal**
+🔭 Actualmente trabajando en: **Ѧ⥩⤫ Bot**
 
-🌱 Actualmente aprendiendo: **JavaScript (DOM Manipulation)**
+🌱 Actualmente aprendiendo: **Advanced JavaScript**
 
-🤝 Buscando colaborar en: **Proyectos para Beginners**
+🤝 Buscando colaborar en: **Proyectos para Trainees**
 
 📥 Comunicate conmigo vía <a href="mailto:tobiasfacellodeveloper@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
-📲 También podes hacerlo por <a href="https://wa.link/svr8dl"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 
 <br>
 
