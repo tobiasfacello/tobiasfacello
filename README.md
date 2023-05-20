@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Tobías Facello, aspiring Full-Stack Developer.
+#### I'm Tobías Facello, aspiring Software Developer.
 
 ##### NOW
 
