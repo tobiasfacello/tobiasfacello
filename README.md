@@ -7,6 +7,8 @@
 - ✨ Studying and Freelancing
 - 🌱 Learning about: **Frontend/Backend**
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66ba2c13b64402e052a9d433?variant=dark)](https://roadmap.sh)
+
 ##### BIO
 - 📫 Reach me:
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/fache.dev)
