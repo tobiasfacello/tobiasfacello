@@ -1,13 +1,9 @@
-### Hi there 👋
-
-#### I'm Tobías Facello, Fullstack Developer and Web Designer.
+#### 💻🧉 Frontend Developer • Web Designer
 
 ##### NOW
 
-- ✨ Studying and Freelancing
-- 🌱 Learning about: **Frontend/Backend**
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66ba2c13b64402e052a9d433?variant=dark)](https://roadmap.sh)
+- ✨ Studying and Working
+- 🌱 Learning about: **Fullstack Development • UX/UI Design**
 
 ##### BIO
 - 📫 Reach me:
